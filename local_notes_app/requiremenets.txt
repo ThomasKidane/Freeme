@@ -1,0 +1,28 @@
+
+# requirements.txt (Example additions/updates)
+streamlit
+langchain
+langchain-core
+langchain-ollama
+langchain-unstructured # New loader package
+chromadb
+unstructured[docx]     # Add extras like [pdf], [md] as needed
+pypandoc               # For .tex support via pandoc
+pandas
+python-dateutil
+datetime
+# traceback-with-variables # Optional debugging
+
+
+
+
+
+
+
+
+
+
+
+
+
+
